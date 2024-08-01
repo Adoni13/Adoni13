@@ -1,4 +1,4 @@
-  Nahom Teshal(Adonis)
+ It's Nahom Teshal(Adonis)
 Welcome to my GitHub profile! I'm an aspiring software engineer and freelance web/application developer, with a growing passion for creating innovative digital solutions.
 
    About Me
@@ -11,6 +11,6 @@ Welcome to my GitHub profile! I'm an aspiring software engineer and freelance we
 I'm always excited to connect with other developers and explore new opportunities. Feel free to reach out to me on:
 
 - [LinkedIn](https://www.linkedin.com/in/
-- [Twitter] https://www.teitter.com/Na  home_44
+- [Twitter] https://www.teitter.com/Nahome_44
 - [Instagram] https://instagram.com/Naho_me12
 - [Email] Adonayteshale12@gmail.com
