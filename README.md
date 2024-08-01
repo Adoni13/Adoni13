@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm an aspiring software engineer and freelance we
 -  Contact
 I'm always excited to connect with other developers and explore new opportunities. Feel free to reach out to me on:
 
-- [LinkedIn](https://www.linkedin.com/in/
+- [LinkedIn] https://www.linkedin.com/in/
 - [Twitter] https://www.teitter.com/Nahome_44
 - [Instagram] https://instagram.com/Naho_me12
 - [Email] Adonayteshale12@gmail.com
